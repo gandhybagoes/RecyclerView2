@@ -1,11 +1,11 @@
-### Judul Project : RecyclerView1
+### Judul Project : RecyclerView2
 
 ### Screenshot :
-Gambar masih berbentuk persegi: 
-![alt text](https://github.com/gandhybagoes/RecyclerView1/blob/master/1.PNG)
+Gambar List: 
+![alt text](https://github.com/gandhybagoes/RecyclerView2/blob/master/1.2.PNG)
 
-Gambar sudah berbentuk lingkaran: 
-![alt text](https://github.com/gandhybagoes/RecyclerView1/blob/master/1.2.PNG)
+Gambar Grid: 
+![alt text](https://github.com/gandhybagoes/RecyclerView2/blob/master/2.PNG)
 
 ### Identitas
 + Nama : Gandhy Bagoes Cahyono
